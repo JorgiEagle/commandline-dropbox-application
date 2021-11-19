@@ -7,3 +7,5 @@ A simple, proof of concept, commandline application showcasing a client server I
 
 Time Spent: 
   Reasearch: 2 hours
+
+tutorial watched: Python Socket Programming Tutorial (https://youtu.be/3QiPPX-KeSc)
